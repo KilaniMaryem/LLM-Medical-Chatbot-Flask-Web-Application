@@ -1,0 +1,11 @@
+ctransformers==0.2.5
+sentence-transformers==2.2.2
+pinecone-client
+langchain
+langchain-community
+flask
+python_dotenv
+pypdf
+-e . #will run setup.py
+pinecone[grpc]
+pinecone-plugin-assistant
